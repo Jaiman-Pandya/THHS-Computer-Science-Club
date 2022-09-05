@@ -1,1 +1,1 @@
-Created and Developed by Jaiman Pandya; Feel free to modify / duplicate while including the corresponding MIT License
+Created and Developed by Jaiman Pandya (Do not duplicate or modify)
